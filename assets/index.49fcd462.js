@@ -1,0 +1,1 @@
+import{d as a,r as s,o as e,b as r,h as t,c}from"./index.517a6a49.js";import"./vendor.f64c08e3.js";var d=a({});const o=c("div",{class:"title"},"Home",-1),i=c("div",{class:"title"},"各组件展示了Vue3的基本用法",-1);d.render=function(a,c,d,n,l,f){const u=s("a-card");return e(),r(u,{class:"card"},{default:t((()=>[o,i])),_:1})};export default d;
